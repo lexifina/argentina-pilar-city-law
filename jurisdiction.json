@@ -1,11 +1,11 @@
 {
-  "path": "ar-b-pilar",
-  "code": "AR-B-PILAR",
-  "name": "Pilar",
-  "level": "municipality",
-  "parent": "ar-b",
-  "repo": "https://github.com/lexifina/argentina-pilar-city-law",
-  "build": "built: municipal ordinances (42 ordinances, 42 versions) from https://sibom.slyt.gba.gob.ar/cities/35",
-  "language": "es",
-  "sources": 1
+ "path": "ar-b-pilar",
+ "code": "AR-B-PILAR",
+ "name": "Pilar",
+ "level": "municipality",
+ "parent": "ar-b",
+ "repo": "https://github.com/lexifina/argentina-pilar-city-law",
+ "build": "built: municipal ordinances (113 ordinances, 113 versions) from https://sibom.slyt.gba.gob.ar/cities/35; earlier catalogue considered, 96 records excluded",
+ "language": "es",
+ "sources": 1
 }
