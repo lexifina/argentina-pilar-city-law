@@ -1,7 +1,6 @@
-# Ordenanza 130/2019: Ordenanza 130/2019
+# Withdrawn corpus record: Ordenanza 130/2019
 
-Ordenanza 130/2019 · 1 versions, from 2019-12-18 (latest in force: 2019-12-18) · <https://sibom.slyt.gba.gob.ar/bulletins/2976/contents/1405049>
+Withdrawn corpus record: Ordenanza 130/2019 · 1 versions, from 2019-12-18 (latest in force: 2019-12-18) · <https://sibom.slyt.gba.gob.ar/bulletins/2976/contents/1405049>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Texto completo | [texto.md](texto.md) | 0 |  |

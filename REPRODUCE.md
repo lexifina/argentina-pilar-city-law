@@ -57,78 +57,78 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-40-2019` | Ordenanza 40/2019: Destinar el uso de 6 hectáreas de tierra del lote ubicado en la Circunscripción VI, Parcela 858 a, Partida 3213 del Partido Del Pilar, para el Emplazamiento de un Polo Educativo y un Polideportivo Municipal. | 1 | 2019-06-02 to 2019-06-02 |
 | `ordenanza-59-2019` | Ordenanza 59/2019: Condonase a Ia señora Aguilar Graciela María, DNI 11.453.358, deI pago de Ia deuda del impuesto municipal por los años 2011 cuota 6, 2012 al 2018 del Tributo Mantenimiento de Ia Vía Pública y Servicios Generales de Ia pa | 1 | 2019-08-09 to 2019-08-09 |
 | `ordenanza-478-2017` | Ordenanza 478/2017: Ordenanza 478/2017 | 1 | 2018-02-04 to 2018-02-04 |
-| `ordenanza-392-2019` | Ordenanza 392/2019: Ordenanza 392/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-395-2019` | Ordenanza 395/2019: Ordenanza 395/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-402-2019` | Ordenanza 402/2019: Ordenanza 402/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-403-2019` | Ordenanza 403/2019: Ordenanza 403/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-409-2019` | Ordenanza 409/2019: Ordenanza 409/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-410-2019` | Ordenanza 410/2019: Ordenanza 410/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-419-2019` | Ordenanza 419/2019: Ordenanza 419/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-420-2019` | Ordenanza 420/2019: Ordenanza 420/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-424-2019` | Ordenanza 424/2019: Ordenanza 424/2019 | 1 | 2019-02-27 to 2019-02-27 |
-| `ordenanza-1-2019` | Ordenanza 1/2019: Ordenanza 1/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-2-2019` | Ordenanza 2/2019: Ordenanza 2/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-3-2019` | Ordenanza 3/2019: Ordenanza 3/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-4-2019` | Ordenanza 4/2019: Ordenanza 4/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-5-2019` | Ordenanza 5/2019: Ordenanza 5/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-7-2019` | Ordenanza 7/2019: Ordenanza 7/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-8-2019` | Ordenanza 8/2019: Ordenanza 8/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-9-2019` | Ordenanza 9/2019: Ordenanza 9/2019 | 1 | 2019-03-24 to 2019-03-24 |
-| `ordenanza-14-2019` | Ordenanza 14/2019: Ordenanza 14/2019 | 1 | 2019-04-14 to 2019-04-14 |
-| `ordenanza-16-2019` | Ordenanza 16/2019: Ordenanza 16/2019 | 1 | 2019-04-14 to 2019-04-14 |
-| `ordenanza-17-2019` | Ordenanza 17/2019: Ordenanza 17/2019 | 1 | 2019-04-14 to 2019-04-14 |
-| `ordenanza-20-2019` | Ordenanza 20/2019: Ordenanza 20/2019 | 1 | 2019-04-14 to 2019-04-14 |
-| `ordenanza-25-2019` | Ordenanza 25/2019: Ordenanza 25/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-28-2019` | Ordenanza 28/2019: Ordenanza 28/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-29-2019` | Ordenanza 29/2019: Ordenanza 29/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-30-2019` | Ordenanza 30/2019: Ordenanza 30/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-32-2019` | Ordenanza 32/2019: Ordenanza 32/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-34-2019` | Ordenanza 34/2019: Ordenanza 34/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-35-2019` | Ordenanza 35/2019: Ordenanza 35/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-36-2019` | Ordenanza 36/2019: Ordenanza 36/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-42-2019` | Ordenanza 42/2019: Ordenanza 42/2019 | 1 | 2019-06-02 to 2019-06-02 |
-| `ordenanza-51-2019` | Ordenanza 51/2019: Ordenanza 51/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-52-2019` | Ordenanza 52/2019: Ordenanza 52/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-56-2019` | Ordenanza 56/2019: Ordenanza 56/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-58-2019` | Ordenanza 58/2019: Ordenanza 58/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-60-2019` | Ordenanza 60/2019: Ordenanza 60/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-64-2019` | Ordenanza 64/2019: Ordenanza 64/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-68-2019` | Ordenanza 68/2019: Ordenanza 68/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-73-2019` | Ordenanza 73/2019: Ordenanza 73/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-74-2019` | Ordenanza 74/2019: Ordenanza 74/2019 | 1 | 2019-08-09 to 2019-08-09 |
-| `ordenanza-103-2019` | Ordenanza 103/2019: Ordenanza 103/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-104-2019` | Ordenanza 104/2019: Ordenanza 104/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-105-2019` | Ordenanza 105/2019: Ordenanza 105/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-108-2019` | Ordenanza 108/2019: Ordenanza 108/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-109-2019` | Ordenanza 109/2019: Ordenanza 109/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-110-2019` | Ordenanza 110/2019: Ordenanza 110/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-111-2019` | Ordenanza 111/2019: Ordenanza 111/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-112-2019` | Ordenanza 112/2019: Ordenanza 112/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-114-2019` | Ordenanza 114/2019: Ordenanza 114/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-119-2019` | Ordenanza 119/2019: Ordenanza 119/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-122-2019` | Ordenanza 122/2019: Ordenanza 122/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-124-2019` | Ordenanza 124/2019: Ordenanza 124/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-126-2019` | Ordenanza 126/2019: Ordenanza 126/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-130-2019` | Ordenanza 130/2019: Ordenanza 130/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-133-2019` | Ordenanza 133/2019: Ordenanza 133/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-138-2019` | Ordenanza 138/2019: Ordenanza 138/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-141-2019` | Ordenanza 141/2019: Ordenanza 141/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-144-2019` | Ordenanza 144/2019: Ordenanza 144/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-147-2019` | Ordenanza 147/2019: Ordenanza 147/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-148-2019` | Ordenanza 148/2019: Ordenanza 148/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-152-2019` | Ordenanza 152/2019: Ordenanza 152/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-76-2019` | Ordenanza 76/2019: Ordenanza 76/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-77-2019` | Ordenanza 77/2019: Ordenanza 77/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-80-2019` | Ordenanza 80/2019: Ordenanza 80/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-82-2019` | Ordenanza 82/2019: Ordenanza 82/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-89-2019` | Ordenanza 89/2019: Ordenanza 89/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-91-2019` | Ordenanza 91/2019: Ordenanza 91/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-98-2019` | Ordenanza 98/2019: Ordenanza 98/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-99-2019` | Ordenanza 99/2019: Ordenanza 99/2019 | 1 | 2019-12-18 to 2019-12-18 |
-| `ordenanza-80-2021` | Ordenanza 80/2021: Ordenanza 80/2021 | 1 | 2022-03-20 to 2022-03-20 |
-| `ordenanza-68-2022` | Ordenanza 68/2022: Ordenanza 68/2022 | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-392-2019` | Withdrawn corpus record: Ordenanza 392/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-395-2019` | Withdrawn corpus record: Ordenanza 395/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-402-2019` | Withdrawn corpus record: Ordenanza 402/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-403-2019` | Withdrawn corpus record: Ordenanza 403/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-409-2019` | Withdrawn corpus record: Ordenanza 409/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-410-2019` | Withdrawn corpus record: Ordenanza 410/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-419-2019` | Withdrawn corpus record: Ordenanza 419/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-420-2019` | Withdrawn corpus record: Ordenanza 420/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-424-2019` | Withdrawn corpus record: Ordenanza 424/2018 | 1 | 2019-02-27 to 2019-02-27 |
+| `ordenanza-1-2019` | Withdrawn corpus record: Ordenanza 1/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-2-2019` | Withdrawn corpus record: Ordenanza 2/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-3-2019` | Withdrawn corpus record: Ordenanza 3/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-4-2019` | Withdrawn corpus record: Ordenanza 4/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-5-2019` | Withdrawn corpus record: Ordenanza 5/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-7-2019` | Withdrawn corpus record: Ordenanza 7/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-8-2019` | Withdrawn corpus record: Ordenanza 8/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-9-2019` | Withdrawn corpus record: Ordenanza 9/2019 | 1 | 2019-03-24 to 2019-03-24 |
+| `ordenanza-14-2019` | Withdrawn corpus record: Ordenanza 14/2019 | 1 | 2019-04-14 to 2019-04-14 |
+| `ordenanza-16-2019` | Withdrawn corpus record: Ordenanza 16/2019 | 1 | 2019-04-14 to 2019-04-14 |
+| `ordenanza-17-2019` | Withdrawn corpus record: Ordenanza 17/2019 | 1 | 2019-04-14 to 2019-04-14 |
+| `ordenanza-20-2019` | Withdrawn corpus record: Ordenanza 20/2019 | 1 | 2019-04-14 to 2019-04-14 |
+| `ordenanza-25-2019` | Withdrawn corpus record: Ordenanza 25/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-28-2019` | Withdrawn corpus record: Ordenanza 28/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-29-2019` | Withdrawn corpus record: Ordenanza 29/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-30-2019` | Withdrawn corpus record: Ordenanza 30/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-32-2019` | Withdrawn corpus record: Ordenanza 32/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-34-2019` | Withdrawn corpus record: Ordenanza 34/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-35-2019` | Withdrawn corpus record: Ordenanza 35/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-36-2019` | Withdrawn corpus record: Ordenanza 36/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-42-2019` | Withdrawn corpus record: Ordenanza 42/2019 | 1 | 2019-06-02 to 2019-06-02 |
+| `ordenanza-51-2019` | Withdrawn corpus record: Ordenanza 51/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-52-2019` | Withdrawn corpus record: Ordenanza 52/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-56-2019` | Withdrawn corpus record: Ordenanza 56/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-58-2019` | Withdrawn corpus record: Ordenanza 58/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-60-2019` | Withdrawn corpus record: Ordenanza 60/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-64-2019` | Withdrawn corpus record: Ordenanza 64/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-68-2019` | Withdrawn corpus record: Ordenanza 68/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-73-2019` | Withdrawn corpus record: Ordenanza 73/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-74-2019` | Withdrawn corpus record: Ordenanza 74/2019 | 1 | 2019-08-09 to 2019-08-09 |
+| `ordenanza-103-2019` | Withdrawn corpus record: Ordenanza 103/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-104-2019` | Withdrawn corpus record: Ordenanza 104/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-105-2019` | Withdrawn corpus record: Ordenanza 105/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-108-2019` | Withdrawn corpus record: Ordenanza 108/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-109-2019` | Withdrawn corpus record: Ordenanza 109/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-110-2019` | Withdrawn corpus record: Ordenanza 110/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-111-2019` | Withdrawn corpus record: Ordenanza 111/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-112-2019` | Withdrawn corpus record: Ordenanza 112/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-114-2019` | Withdrawn corpus record: Ordenanza 114/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-119-2019` | Withdrawn corpus record: Ordenanza 119/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-122-2019` | Withdrawn corpus record: Ordenanza 122/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-124-2019` | Withdrawn corpus record: Ordenanza 124/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-126-2019` | Withdrawn corpus record: Ordenanza 126/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-130-2019` | Withdrawn corpus record: Ordenanza 130/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-133-2019` | Withdrawn corpus record: Ordenanza 133/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-138-2019` | Withdrawn corpus record: Ordenanza 138/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-141-2019` | Withdrawn corpus record: Ordenanza 141/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-144-2019` | Withdrawn corpus record: Ordenanza 144/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-147-2019` | Withdrawn corpus record: Ordenanza 147/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-148-2019` | Withdrawn corpus record: Ordenanza 148/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-152-2019` | Withdrawn corpus record: Ordenanza 152/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-76-2019` | Withdrawn corpus record: Ordenanza 76/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-77-2019` | Withdrawn corpus record: Ordenanza 77/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-80-2019` | Withdrawn corpus record: Ordenanza 80/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-82-2019` | Withdrawn corpus record: Ordenanza 82/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-89-2019` | Withdrawn corpus record: Ordenanza 89/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-91-2019` | Withdrawn corpus record: Ordenanza 91/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-98-2019` | Withdrawn corpus record: Ordenanza 98/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-99-2019` | Withdrawn corpus record: Ordenanza 99/2019 | 1 | 2019-12-18 to 2019-12-18 |
+| `ordenanza-80-2021` | Withdrawn corpus record: Ordenanza 80/2021 | 1 | 2022-03-20 to 2022-03-20 |
+| `ordenanza-68-2022` | Withdrawn corpus record: Ordenanza 68/2022 | 1 | 2022-12-01 to 2022-12-01 |
 
-The build made 113 commits:
+The build made 183 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -152,7 +152,7 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d1993c7a190114292baf9635942125e2134a5292366cbe17e508745f885ebe37` (367183 bytes).
+- Corpus: sha256 `2505dbbffaed195bb855e4350932e7a34c82779565f05d1f9825603f5e7d45f5` (467053 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `5d0eabdf207e7a114e8dbc8112ed3b044537b711`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -175,6 +175,76 @@ No second build of this corpus has been compared yet.
 - A two-digit year explicitly attached to an ordinance number is expanded to its century; explicit number years take precedence over publication years.
 - Complete texts without article headings are single-file acts in texto.md. Extracts, unreadable pages and separately linked annexes without complete verified text are left out.
 - Every included version matches the independent source reader word for word, including punctuation and ordered letters/digits, after normalizing spacing, Unicode NFC and discretionary soft hyphens.
+- ordenanza-392-2019: withdraw the incomplete corpus record; source identity ordenanza-392-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-395-2019: withdraw the incomplete corpus record; source identity ordenanza-395-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-402-2019: withdraw the incomplete corpus record; source identity ordenanza-402-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-403-2019: withdraw the incomplete corpus record; source identity ordenanza-403-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-409-2019: withdraw the incomplete corpus record; source identity ordenanza-409-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-410-2019: withdraw the incomplete corpus record; source identity ordenanza-410-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-419-2019: withdraw the incomplete corpus record; source identity ordenanza-419-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-420-2019: withdraw the incomplete corpus record; source identity ordenanza-420-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-424-2019: withdraw the incomplete corpus record; source identity ordenanza-424-2018. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-1-2019: withdraw the incomplete corpus record; source identity ordenanza-1-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-2-2019: withdraw the incomplete corpus record; source identity ordenanza-2-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-3-2019: withdraw the incomplete corpus record; source identity ordenanza-3-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-4-2019: withdraw the incomplete corpus record; source identity ordenanza-4-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-5-2019: withdraw the incomplete corpus record; source identity ordenanza-5-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-7-2019: withdraw the incomplete corpus record; source identity ordenanza-7-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-8-2019: withdraw the incomplete corpus record; source identity ordenanza-8-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-9-2019: withdraw the incomplete corpus record; source identity ordenanza-9-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-14-2019: withdraw the incomplete corpus record; source identity ordenanza-14-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-16-2019: withdraw the incomplete corpus record; source identity ordenanza-16-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-17-2019: withdraw the incomplete corpus record; source identity ordenanza-17-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-20-2019: withdraw the incomplete corpus record; source identity ordenanza-20-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-25-2019: withdraw the incomplete corpus record; source identity ordenanza-25-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-28-2019: withdraw the incomplete corpus record; source identity ordenanza-28-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-29-2019: withdraw the incomplete corpus record; source identity ordenanza-29-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-30-2019: withdraw the incomplete corpus record; source identity ordenanza-30-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-32-2019: withdraw the incomplete corpus record; source identity ordenanza-32-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-34-2019: withdraw the incomplete corpus record; source identity ordenanza-34-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-35-2019: withdraw the incomplete corpus record; source identity ordenanza-35-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-36-2019: withdraw the incomplete corpus record; source identity ordenanza-36-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-42-2019: withdraw the incomplete corpus record; source identity ordenanza-42-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-51-2019: withdraw the incomplete corpus record; source identity ordenanza-51-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-52-2019: withdraw the incomplete corpus record; source identity ordenanza-52-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-56-2019: withdraw the incomplete corpus record; source identity ordenanza-56-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-58-2019: withdraw the incomplete corpus record; source identity ordenanza-58-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-60-2019: withdraw the incomplete corpus record; source identity ordenanza-60-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-64-2019: withdraw the incomplete corpus record; source identity ordenanza-64-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-68-2019: withdraw the incomplete corpus record; source identity ordenanza-68-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-73-2019: withdraw the incomplete corpus record; source identity ordenanza-73-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-74-2019: withdraw the incomplete corpus record; source identity ordenanza-74-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-103-2019: withdraw the incomplete corpus record; source identity ordenanza-103-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-104-2019: withdraw the incomplete corpus record; source identity ordenanza-104-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-105-2019: withdraw the incomplete corpus record; source identity ordenanza-105-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-108-2019: withdraw the incomplete corpus record; source identity ordenanza-108-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-109-2019: withdraw the incomplete corpus record; source identity ordenanza-109-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-110-2019: withdraw the incomplete corpus record; source identity ordenanza-110-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-111-2019: withdraw the incomplete corpus record; source identity ordenanza-111-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-112-2019: withdraw the incomplete corpus record; source identity ordenanza-112-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-114-2019: withdraw the incomplete corpus record; source identity ordenanza-114-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-119-2019: withdraw the incomplete corpus record; source identity ordenanza-119-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-122-2019: withdraw the incomplete corpus record; source identity ordenanza-122-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-124-2019: withdraw the incomplete corpus record; source identity ordenanza-124-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-126-2019: withdraw the incomplete corpus record; source identity ordenanza-126-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-130-2019: withdraw the incomplete corpus record; source identity ordenanza-130-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-133-2019: withdraw the incomplete corpus record; source identity ordenanza-133-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-138-2019: withdraw the incomplete corpus record; source identity ordenanza-138-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-141-2019: withdraw the incomplete corpus record; source identity ordenanza-141-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-144-2019: withdraw the incomplete corpus record; source identity ordenanza-144-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-147-2019: withdraw the incomplete corpus record; source identity ordenanza-147-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-148-2019: withdraw the incomplete corpus record; source identity ordenanza-148-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-152-2019: withdraw the incomplete corpus record; source identity ordenanza-152-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-76-2019: withdraw the incomplete corpus record; source identity ordenanza-76-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-77-2019: withdraw the incomplete corpus record; source identity ordenanza-77-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-80-2019: withdraw the incomplete corpus record; source identity ordenanza-80-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-82-2019: withdraw the incomplete corpus record; source identity ordenanza-82-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-89-2019: withdraw the incomplete corpus record; source identity ordenanza-89-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-91-2019: withdraw the incomplete corpus record; source identity ordenanza-91-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-98-2019: withdraw the incomplete corpus record; source identity ordenanza-98-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-99-2019: withdraw the incomplete corpus record; source identity ordenanza-99-2019. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-80-2021: withdraw the incomplete corpus record; source identity ordenanza-80-2021. The original history and tags remain. This is not a legislative repeal.
+- ordenanza-68-2022: withdraw the incomplete corpus record; source identity ordenanza-68-2022. The original history and tags remain. This is not a legislative repeal.
 
 ## What AI did and did not do
 
@@ -187,3 +257,4 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
 - GPT-6 wrote and reviewed reader code and metadata descriptions; it wrote no law text.
+- A model classified source completeness and prepared editorial withdrawal metadata. No model-generated legal text is included.
